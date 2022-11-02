@@ -10,7 +10,7 @@ Powered by [node.js](http://nodejs.org) + [socket.io](http://socket.io)
 
 ## How does it work?
 
-A **file input** watches log files for changes, sends new messages to the **server** via TCP, which broadcasts to **browsers** via socket.io.
+A **file input** watches log files for changes, sends new messages to the **server** via TCPsadf, which broadcasts to **browsers** via socket.io.
 
 Users can watch adhoc log streams by activating inputs and binding them to muasdfltiple screens via the web UI.
 
