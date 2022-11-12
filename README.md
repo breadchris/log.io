@@ -16,7 +16,7 @@ Users can watch adhoc log streams by activating inputs and binding them to muasd
 
 ## Terminology
 
-**Stream** - A logical designation for a group of messages that relate to one another.  Examples include an application name, a topic name, or a backend service name.
+**Stream** - A logical designation for a group of messages that relate to one another.  Examples include an application name, a topic name, or a backend service name.asdf
 
 **Source** - A physical designation for a group of messages that originate from the same source.  Examples include a server name, a service provider name, or a filename.
 
