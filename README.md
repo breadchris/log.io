@@ -10,13 +10,13 @@ Powered by [node.js](http://nodejs.org) + [socket.io](http://socket.io)
 
 ## How does it work?
 
-A **file input** watches log files for changes, sends new messages to the **server** via TCP, which broadcasts to **browsers** via socket.io.
+A **file input** watches log files for changes, sends new messages to the **server** via TCPsadf, which broadcasts to **browsers** via socket.io.
 
-Users can watch adhoc log streams by activating inputs and binding them to multiple screens via the web UI.
+Users can watch adhoc log streams by activating inputs and binding them to muasdfltiple screens via the web UI.
 
 ## Terminology
 
-**Stream** - A logical designation for a group of messages that relate to one another.  Examples include an application name, a topic name, or a backend service name.
+**Stream** - A logical designation for a group of messages that relate to one another.  Examples include an application name, a topic name, or a backend service name.asdf
 
 **Source** - A physical designation for a group of messages that originate from the same source.  Examples include a server name, a service provider name, or a filename.
 
